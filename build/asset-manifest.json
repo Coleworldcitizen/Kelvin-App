@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33b529cf.css",
+    "main.js": "/static/js/main.009967f6.js",
+    "static/media/landlord.avif": "/static/media/landlord.125785749a75eaa92123.avif",
+    "static/media/student room.avif": "/static/media/student room.7c05467572becfc2d669.avif",
+    "index.html": "/index.html",
+    "main.33b529cf.css.map": "/static/css/main.33b529cf.css.map",
+    "main.009967f6.js.map": "/static/js/main.009967f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b529cf.css",
+    "static/js/main.009967f6.js"
+  ]
+}
